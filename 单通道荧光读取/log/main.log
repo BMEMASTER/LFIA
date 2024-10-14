@@ -1,0 +1,5 @@
+DEBUG [2023-03-13 15:27:03,879] logFactory.py[line:84] logFactory.<module>: debug
+INFO [2023-03-13 15:27:03,881] logFactory.py[line:85] logFactory.<module>: info
+WARNING [2023-03-13 15:27:03,881] logFactory.py[line:86] logFactory.<module>: 警告
+ERROR [2023-03-13 15:27:03,882] logFactory.py[line:87] logFactory.<module>: 报错
+CRITICAL [2023-03-13 15:27:03,882] logFactory.py[line:88] logFactory.<module>: 严重
