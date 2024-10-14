@@ -1,0 +1,14 @@
+filename: "./log"
+level: debug
+#format: "%(levelname)s [%(asctime)s] %(filename)s[line:%(lineno)d] %(module)s.%(funcName)s: %(message)s"
+
+env: dev
+name: IFIR-101
+version: v1.0
+camera: 0
+database:
+  user: root
+  password: '123456'
+  host: localhost
+  port: 3306
+  dbName: 'test'

@@ -1,0 +1,175 @@
+ERROR [2023-11-29 16:32:43,007] mainWindow.py[line:290] mainWindow.saveResult: addRecord() missing 1 required positional argument: 'testTime'
+ERROR [2023-11-29 16:32:54,641] mainWindow.py[line:290] mainWindow.saveResult: addRecord() missing 1 required positional argument: 'testTime'
+DEBUG [2023-11-29 16:36:44,685] dao.py[line:52] dao.connect: (1698, "Access denied for user 'root'@'localhost'")
+ERROR [2023-11-29 16:36:44,688] mainWindow.py[line:290] mainWindow.saveResult: 'NoneType' object has no attribute 'rollback'
+DEBUG [2023-11-30 10:33:34,284] dao.py[line:67] dao.executeQuery: (1146, "Table 'test.history' doesn't exist")
+DEBUG [2023-11-30 10:33:34,289] dao.py[line:119] dao.select: (1146, "Table 'test.history' doesn't exist")
+ERROR [2023-11-30 10:33:34,290] mainWindow.py[line:633] mainWindow.on_qQueryBtn_clicked: (1146, "Table 'test.history' doesn't exist")
+DEBUG [2023-11-30 10:33:52,548] dao.py[line:67] dao.executeQuery: (1146, "Table 'test.history' doesn't exist")
+DEBUG [2023-11-30 10:33:52,550] dao.py[line:119] dao.select: (1146, "Table 'test.history' doesn't exist")
+ERROR [2023-11-30 10:33:52,551] mainWindow.py[line:633] mainWindow.on_qQueryBtn_clicked: (1146, "Table 'test.history' doesn't exist")
+ERROR [2023-11-30 10:44:55,717] mainWindow.py[line:290] mainWindow.saveResult: addRecord() missing 1 required positional argument: 'testTime'
+DEBUG [2023-11-30 10:45:08,603] dao.py[line:67] dao.executeQuery: (1146, "Table 'test.history' doesn't exist")
+DEBUG [2023-11-30 10:45:08,606] dao.py[line:119] dao.select: (1146, "Table 'test.history' doesn't exist")
+ERROR [2023-11-30 10:45:08,608] mainWindow.py[line:633] mainWindow.on_qQueryBtn_clicked: (1146, "Table 'test.history' doesn't exist")
+ERROR [2023-11-30 10:47:52,561] mainWindow.py[line:291] mainWindow.saveResult: name 'data' is not defined
+ERROR [2023-11-30 10:48:09,663] mainWindow.py[line:291] mainWindow.saveResult: name 'data' is not defined
+ERROR [2023-11-30 10:49:06,517] mainWindow.py[line:291] mainWindow.saveResult: 'str' object has no attribute 'toString'
+ERROR [2023-11-30 10:49:35,035] mainWindow.py[line:291] mainWindow.saveResult: arguments did not match any overloaded call:
+  toString(self, format: Qt.DateFormat = Qt.TextDate): first argument of unbound method must have type 'QDateTime'
+  toString(self, str): first argument of unbound method must have type 'QDateTime'
+  toString(self, str, QCalendar): first argument of unbound method must have type 'QDateTime'
+ERROR [2023-11-30 10:50:33,915] mainWindow.py[line:291] mainWindow.saveResult: arguments did not match any overloaded call:
+  toString(self, format: Qt.DateFormat = Qt.TextDate): first argument of unbound method must have type 'QDateTime'
+  toString(self, str): first argument of unbound method must have type 'QDateTime'
+  toString(self, str, QCalendar): first argument of unbound method must have type 'QDateTime'
+ERROR [2023-11-30 10:51:57,383] mainWindow.py[line:291] mainWindow.saveResult: name 'toString' is not defined
+ERROR [2023-11-30 10:53:12,968] mainWindow.py[line:291] mainWindow.saveResult: Replacement index 4 out of range for positional args tuple
+ERROR [2023-11-30 11:03:59,133] mainWindow.py[line:291] mainWindow.saveResult: Replacement index 4 out of range for positional args tuple
+ERROR [2023-11-30 11:04:25,152] mainWindow.py[line:291] mainWindow.saveResult: Replacement index 4 out of range for positional args tuple
+ERROR [2023-11-30 11:09:17,460] mainWindow.py[line:290] mainWindow.saveResult: name 'testTime' is not defined
+ERROR [2023-11-30 11:10:28,928] mainWindow.py[line:290] mainWindow.saveResult: name 'testTime' is not defined
+ERROR [2023-11-30 11:13:50,738] mainWindow.py[line:290] mainWindow.saveResult: name 'testTime' is not defined
+ERROR [2023-11-30 11:23:28,796] mainWindow.py[line:290] mainWindow.saveResult: name 'peaksG' is not defined
+ERROR [2023-11-30 11:27:16,129] mainWindow.py[line:290] mainWindow.saveResult: Replacement index 4 out of range for positional args tuple
+ERROR [2023-11-30 11:28:57,446] mainWindow.py[line:290] mainWindow.saveResult: Replacement index 3 out of range for positional args tuple
+DEBUG [2023-11-30 13:32:37,266] dao.py[line:100] dao.addRecord: (1146, "Table 'test.history' doesn't exist")
+ERROR [2023-11-30 13:32:37,267] mainWindow.py[line:290] mainWindow.saveResult: (1146, "Table 'test.history' doesn't exist")
+DEBUG [2023-11-30 13:35:18,018] dao.py[line:100] dao.addRecord: (1146, "Table 'test.history' doesn't exist")
+ERROR [2023-11-30 13:35:18,020] mainWindow.py[line:290] mainWindow.saveResult: (1146, "Table 'test.history' doesn't exist")
+DEBUG [2023-11-30 13:35:58,707] dao.py[line:67] dao.executeQuery: (1146, "Table 'test.history' doesn't exist")
+DEBUG [2023-11-30 13:35:58,709] dao.py[line:121] dao.select: (1146, "Table 'test.history' doesn't exist")
+ERROR [2023-11-30 13:35:58,709] mainWindow.py[line:633] mainWindow.on_qQueryBtn_clicked: (1146, "Table 'test.history' doesn't exist")
+DEBUG [2023-11-30 13:55:16,710] dao.py[line:100] dao.addRecord: (1146, "Table 'test.history' doesn't exist")
+ERROR [2023-11-30 13:55:16,712] mainWindow.py[line:290] mainWindow.saveResult: (1146, "Table 'test.history' doesn't exist")
+DEBUG [2023-11-30 13:58:38,627] dao.py[line:100] dao.addRecord: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '2023/11/30 13:58:38')' at line 1")
+ERROR [2023-11-30 13:58:38,630] mainWindow.py[line:290] mainWindow.saveResult: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '2023/11/30 13:58:38')' at line 1")
+DEBUG [2023-11-30 14:01:56,823] dao.py[line:67] dao.executeQuery: (1146, "Table 'test.history' doesn't exist")
+DEBUG [2023-11-30 14:01:56,824] dao.py[line:121] dao.select: (1146, "Table 'test.history' doesn't exist")
+ERROR [2023-11-30 14:01:56,825] mainWindow.py[line:633] mainWindow.on_qQueryBtn_clicked: (1146, "Table 'test.history' doesn't exist")
+debug
+info
+警告
+报错
+严重
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '2023/11/30 14:08:07')' at line 1")
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '2023/11/30 14:08:07')' at line 1")
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '2023/11/30 14:08:21')' at line 1")
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '2023/11/30 14:08:21')' at line 1")
+(1146, "Table 'test.history' doesn't exist")
+(1146, "Table 'test.history' doesn't exist")
+(1146, "Table 'test.history' doesn't exist")
+(1146, "Table 'test.history' doesn't exist")
+(1054, "Unknown column 'r_val' in 'field list'")
+(1054, "Unknown column 'r_val' in 'field list'")
+(1054, "Unknown column 'test_num' in 'field list'")
+(1054, "Unknown column 'test_num' in 'field list'")
+(1054, "Unknown column 'create_time' in 'field list'")
+(1054, "Unknown column 'create_time' in 'field list'")
+(1265, "Data truncated for column 'create_time' at row 1")
+(1265, "Data truncated for column 'create_time' at row 1")
+(1366, "Incorrect integer value: '' for column `test`.`history`.`test_Num` at row 1")
+(1366, "Incorrect integer value: '' for column `test`.`history`.`test_Num` at row 1")
+(1366, "Incorrect integer value: '' for column `test`.`history`.`test_Num` at row 1")
+(1366, "Incorrect integer value: '' for column `test`.`history`.`test_Num` at row 1")
+Replacement index 3 out of range for positional args tuple
+(1366, "Incorrect integer value: '' for column `test`.`history`.`test_Num` at row 1")
+(1366, "Incorrect integer value: '' for column `test`.`history`.`test_Num` at row 1")
+(1265, "Data truncated for column 'create_time' at row 1")
+(1265, "Data truncated for column 'create_time' at row 1")
+(1265, "Data truncated for column 'create_time' at row 1")
+(1265, "Data truncated for column 'create_time' at row 1")
+not enough values to unpack (expected 6, got 3)
+not enough values to unpack (expected 6, got 3)
+not enough values to unpack (expected 6, got 3)
+not enough values to unpack (expected 6, got 3)
+arguments did not match any overloaded call:
+  QDateTime(): too many arguments
+  QDateTime(Union[QDateTime, datetime.datetime]): argument 1 has unexpected type 'str'
+  QDateTime(Union[QDate, datetime.date]): argument 1 has unexpected type 'str'
+  QDateTime(Union[QDate, datetime.date], Union[QTime, datetime.time], timeSpec: Qt.TimeSpec = Qt.LocalTime): argument 1 has unexpected type 'str'
+  QDateTime(int, int, int, int, int, second: int = 0, msec: int = 0, timeSpec: int = 0): argument 1 has unexpected type 'str'
+  QDateTime(Union[QDate, datetime.date], Union[QTime, datetime.time], Qt.TimeSpec, int): argument 1 has unexpected type 'str'
+  QDateTime(Union[QDate, datetime.date], Union[QTime, datetime.time], QTimeZone): argument 1 has unexpected type 'str'
+arguments did not match any overloaded call:
+  QDateTime(): too many arguments
+  QDateTime(Union[QDateTime, datetime.datetime]): argument 1 has unexpected type 'str'
+  QDateTime(Union[QDate, datetime.date]): argument 1 has unexpected type 'str'
+  QDateTime(Union[QDate, datetime.date], Union[QTime, datetime.time], timeSpec: Qt.TimeSpec = Qt.LocalTime): argument 1 has unexpected type 'str'
+  QDateTime(int, int, int, int, int, second: int = 0, msec: int = 0, timeSpec: int = 0): argument 1 has unexpected type 'str'
+  QDateTime(Union[QDate, datetime.date], Union[QTime, datetime.time], Qt.TimeSpec, int): argument 1 has unexpected type 'str'
+  QDateTime(Union[QDate, datetime.date], Union[QTime, datetime.time], QTimeZone): argument 1 has unexpected type 'str'
+not enough values to unpack (expected 6, got 3)
+not enough values to unpack (expected 6, got 3)
+arguments did not match any overloaded call:
+  QDateTime(): too many arguments
+  QDateTime(Union[QDateTime, datetime.datetime]): argument 1 has unexpected type 'str'
+  QDateTime(Union[QDate, datetime.date]): argument 1 has unexpected type 'str'
+  QDateTime(Union[QDate, datetime.date], Union[QTime, datetime.time], timeSpec: Qt.TimeSpec = Qt.LocalTime): argument 1 has unexpected type 'str'
+  QDateTime(int, int, int, int, int, second: int = 0, msec: int = 0, timeSpec: int = 0): argument 1 has unexpected type 'str'
+  QDateTime(Union[QDate, datetime.date], Union[QTime, datetime.time], Qt.TimeSpec, int): argument 1 has unexpected type 'str'
+  QDateTime(Union[QDate, datetime.date], Union[QTime, datetime.time], QTimeZone): argument 1 has unexpected type 'str'
+arguments did not match any overloaded call:
+  QDateTime(): too many arguments
+  QDateTime(Union[QDateTime, datetime.datetime]): argument 1 has unexpected type 'str'
+  QDateTime(Union[QDate, datetime.date]): argument 1 has unexpected type 'str'
+  QDateTime(Union[QDate, datetime.date], Union[QTime, datetime.time], timeSpec: Qt.TimeSpec = Qt.LocalTime): argument 1 has unexpected type 'str'
+  QDateTime(int, int, int, int, int, second: int = 0, msec: int = 0, timeSpec: int = 0): argument 1 has unexpected type 'str'
+  QDateTime(Union[QDate, datetime.date], Union[QTime, datetime.time], Qt.TimeSpec, int): argument 1 has unexpected type 'str'
+  QDateTime(Union[QDate, datetime.date], Union[QTime, datetime.time], QTimeZone): argument 1 has unexpected type 'str'
+not enough values to unpack (expected 6, got 3)
+not enough values to unpack (expected 6, got 3)
+(1366, "Incorrect integer value: '' for column `test`.`history`.`test_Num` at row 1")
+(1366, "Incorrect integer value: '' for column `test`.`history`.`test_Num` at row 1")
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '2023/11/30 15:22:39')' at line 1")
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '2023/11/30 15:22:39')' at line 1")
+not enough values to unpack (expected 6, got 3)
+not enough values to unpack (expected 6, got 3)
+(1054, "Unknown column 'serial_num' in 'field list'")
+(1054, "Unknown column 'serial_num' in 'field list'")
+(1366, "Incorrect integer value: '' for column `test`.`history`.`test_num` at row 1")
+(1366, "Incorrect integer value: '' for column `test`.`history`.`test_num` at row 1")
+(1366, "Incorrect integer value: '' for column `test`.`history`.`test_num` at row 1")
+(1366, "Incorrect integer value: '' for column `test`.`history`.`test_num` at row 1")
+not enough values to unpack (expected 6, got 4)
+not enough values to unpack (expected 6, got 4)
+arguments did not match any overloaded call:
+  QDateTime(): too many arguments
+  QDateTime(Union[QDateTime, datetime.datetime]): argument 1 has unexpected type 'str'
+  QDateTime(Union[QDate, datetime.date]): argument 1 has unexpected type 'str'
+  QDateTime(Union[QDate, datetime.date], Union[QTime, datetime.time], timeSpec: Qt.TimeSpec = Qt.LocalTime): argument 1 has unexpected type 'str'
+  QDateTime(int, int, int, int, int, second: int = 0, msec: int = 0, timeSpec: int = 0): argument 1 has unexpected type 'str'
+  QDateTime(Union[QDate, datetime.date], Union[QTime, datetime.time], Qt.TimeSpec, int): argument 1 has unexpected type 'str'
+  QDateTime(Union[QDate, datetime.date], Union[QTime, datetime.time], QTimeZone): argument 1 has unexpected type 'str'
+arguments did not match any overloaded call:
+  QDateTime(): too many arguments
+  QDateTime(Union[QDateTime, datetime.datetime]): argument 1 has unexpected type 'str'
+  QDateTime(Union[QDate, datetime.date]): argument 1 has unexpected type 'str'
+  QDateTime(Union[QDate, datetime.date], Union[QTime, datetime.time], timeSpec: Qt.TimeSpec = Qt.LocalTime): argument 1 has unexpected type 'str'
+  QDateTime(int, int, int, int, int, second: int = 0, msec: int = 0, timeSpec: int = 0): argument 1 has unexpected type 'str'
+  QDateTime(Union[QDate, datetime.date], Union[QTime, datetime.time], Qt.TimeSpec, int): argument 1 has unexpected type 'str'
+  QDateTime(Union[QDate, datetime.date], Union[QTime, datetime.time], QTimeZone): argument 1 has unexpected type 'str'
+arguments did not match any overloaded call:
+  QDateTime(): too many arguments
+  QDateTime(Union[QDateTime, datetime.datetime]): argument 1 has unexpected type 'str'
+  QDateTime(Union[QDate, datetime.date]): argument 1 has unexpected type 'str'
+  QDateTime(Union[QDate, datetime.date], Union[QTime, datetime.time], timeSpec: Qt.TimeSpec = Qt.LocalTime): argument 1 has unexpected type 'str'
+  QDateTime(int, int, int, int, int, second: int = 0, msec: int = 0, timeSpec: int = 0): argument 1 has unexpected type 'str'
+  QDateTime(Union[QDate, datetime.date], Union[QTime, datetime.time], Qt.TimeSpec, int): argument 1 has unexpected type 'str'
+  QDateTime(Union[QDate, datetime.date], Union[QTime, datetime.time], QTimeZone): argument 1 has unexpected type 'str'
+arguments did not match any overloaded call:
+  QDateTime(): too many arguments
+  QDateTime(Union[QDateTime, datetime.datetime]): argument 1 has unexpected type 'str'
+  QDateTime(Union[QDate, datetime.date]): argument 1 has unexpected type 'str'
+  QDateTime(Union[QDate, datetime.date], Union[QTime, datetime.time], timeSpec: Qt.TimeSpec = Qt.LocalTime): argument 1 has unexpected type 'str'
+  QDateTime(int, int, int, int, int, second: int = 0, msec: int = 0, timeSpec: int = 0): argument 1 has unexpected type 'str'
+  QDateTime(Union[QDate, datetime.date], Union[QTime, datetime.time], Qt.TimeSpec, int): argument 1 has unexpected type 'str'
+  QDateTime(Union[QDate, datetime.date], Union[QTime, datetime.time], QTimeZone): argument 1 has unexpected type 'str'
+arguments did not match any overloaded call:
+  QDateTime(): too many arguments
+  QDateTime(Union[QDateTime, datetime.datetime]): argument 1 has unexpected type 'str'
+  QDateTime(Union[QDate, datetime.date]): argument 1 has unexpected type 'str'
+  QDateTime(Union[QDate, datetime.date], Union[QTime, datetime.time], timeSpec: Qt.TimeSpec = Qt.LocalTime): argument 1 has unexpected type 'str'
+  QDateTime(int, int, int, int, int, second: int = 0, msec: int = 0, timeSpec: int = 0): argument 1 has unexpected type 'str'
+  QDateTime(Union[QDate, datetime.date], Union[QTime, datetime.time], Qt.TimeSpec, int): argument 1 has unexpected type 'str'
+  QDateTime(Union[QDate, datetime.date], Union[QTime, datetime.time], QTimeZone): argument 1 has unexpected type 'str'
