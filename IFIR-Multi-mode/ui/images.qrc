@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/down.png</file>
+        <file>images/begin.png</file>
+        <file>images/camera.png</file>
+        <file>images/arrow_up.png</file>
+        <file>images/arrow_down.png</file>
+        <file>images/number2.png</file>
+        <file>images/phone.png</file>
+        <file>images/posion.png</file>
+        <file>images/result.png</file>
+        <file>images/mysql.png</file>
+        <file>images/db.png</file>
+        <file>images/wait.gif</file>
+        <file>images/electric.png</file>
+        <file>images/home.png</file>
+        <file>images/back.png</file>
+        <file>images/shutdown.png</file>
+        <file>images/info.svg</file>
+        <file>images/warning.svg</file>
+        <file>images/error.svg</file>
+        <file>images/question.svg</file>
+    </qresource>
+</RCC>
